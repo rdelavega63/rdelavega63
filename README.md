@@ -1,1 +1,1 @@
-i![Alt This is me!](./images/rick.png)
+![Alt This is me!](./images/rick.png)
