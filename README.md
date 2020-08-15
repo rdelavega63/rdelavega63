@@ -1,1 +1,1 @@
-![Alt This is me!](whitemaninhanoi/images/rick.png)
+![Alt This is me!](https://github.com/whitemaninhanoi/whitemaninhanoi/blob/master/images/rick.png)
